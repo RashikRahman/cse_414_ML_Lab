@@ -1,0 +1,8 @@
+﻿Heart_Rate,Age,Wait_Time_Min,Insurance
+72,25,20,BlueCross
+74,30,25,NaN
+NaN,28,NaN,Aetna
+78,35,240,Medicare
+80,32,15,NaN
+NaN,29,NaN,UnitedHealth
+85,31,22,BlueCross
